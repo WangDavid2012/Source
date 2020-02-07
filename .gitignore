@@ -32,6 +32,4 @@
 *.app
 #david add 2018/11/13
 *.zip
-/NRF51822
-/Debug
-/VC++ Image process
+*.tar
